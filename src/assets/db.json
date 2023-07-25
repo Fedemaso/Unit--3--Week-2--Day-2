@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "body": "lorem ipsum",
+    "title": "Monkey D. Luffy",
+    "active": true,
+    "image": "./imgs/z2_81.png"
+  },
+
+  {
+    "id": 2,
+
+    "body": "lorem ipsum",
+    "title": "Roronoa Zoro",
+    "active": true,
+    "image": "./imgs/fRmA4Yb.png"
+  },
+
+  {
+    "id": 3,
+    "body": "lorem ipsum",
+    "title": "Vinsmoke Sanji",
+    "active": true,
+    "image": "./imgs/AF0pDCi.png"
+  },
+
+
+
+  {
+    "id": 5,
+    "body": "lorem ipsum",
+    "title": "Nico Robin",
+    "active": false,
+    "image": "./imgs/z2_81.png"
+  },
+
+  {
+    "id": 6,
+    "body": "lorem ipsum",
+    "title": "God Usopp",
+    "active": false,
+    "image": "./imgs/0WzHdTm.png"
+  },
+
+  {
+    "id": 7,
+    "body": "lorem ipsum",
+    "title": "Cyborg Franky",
+    "active": false,
+    "image": "./imgs/3abopae.png"
+  },
+
+  {
+    "id": 8,
+    "body": "lorem ipsum",
+    "title": "Tony Tony Chopper",
+    "active": false,
+    "image": "./imgs/SH4IkCE.png"
+  },
+
+  {
+    "id": 9,
+    "body": "lorem ipsum",
+    "title": "Soul King Brook",
+    "active": false,
+    "image": "./imgs/PHBTWt3.png"
+  },
+
+  {
+    "id": 10,
+    "body": "lorem ipsum",
+    "title": "Nami",
+    "active": false,
+    "image": "./imgs/iWldHzJ.png"
+  }
+]

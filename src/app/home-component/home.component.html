@@ -1,0 +1,9 @@
+<h1>Mugiwara no Ciurma</h1>
+
+<div class="card-container">
+  <div class="card" *ngFor="let post of posts">
+    <h3>{{ post.title }}</h3>
+    <p>{{ post.body }}</p>
+    <p>Active: {{ post.active }}</p>
+  </div>
+</div>
