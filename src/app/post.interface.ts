@@ -3,5 +3,6 @@ export interface Post {
   body:string;
   title:string;
   active:boolean;
-  image:string
+  image:string;
+  type: string
 }

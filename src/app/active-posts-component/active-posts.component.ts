@@ -1,4 +1,3 @@
-
 import { Component, OnInit } from '@angular/core';
 import { Post } from '../post.interface';
 import { PostsService } from '../posts.service';
@@ -14,8 +13,6 @@ export class ActivePostsComponent implements OnInit {
   constructor(private postsService: PostsService) {}
 
   ngOnInit() {
-    this.postsService.fetchPosts().subscribe((posts) => {
-      this.activePosts = posts.filter(post => post.active);
-    });
+    this.activePosts = this.postsService.getActivePosts();
   }
 }

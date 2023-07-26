@@ -1,4 +1,3 @@
-
 import { Component, OnInit } from '@angular/core';
 import { Post } from '../post.interface';
 import { PostsService } from '../posts.service';

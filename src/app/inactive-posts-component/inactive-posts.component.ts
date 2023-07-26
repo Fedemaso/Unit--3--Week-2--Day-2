@@ -1,4 +1,3 @@
-
 import { Component, OnInit } from '@angular/core';
 import { Post } from '../post.interface';
 import { PostsService } from '../posts.service';
@@ -14,8 +13,6 @@ export class InactivePostsComponent implements OnInit {
   constructor(private postsService: PostsService) {}
 
   ngOnInit() {
-    this.postsService.fetchPosts().subscribe((posts) => {
-      this.inactivePosts = posts.filter(post => !post.active);
-    });
+    this.inactivePosts = this.postsService.getInactivePosts();
   }
 }

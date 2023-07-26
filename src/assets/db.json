@@ -1,76 +1,114 @@
 [
   {
     "id": 1,
-    "body": "lorem ipsum",
+    "body": "Diventare il re dei pirati!",
     "title": "Monkey D. Luffy",
     "active": true,
-    "image": "/assets/imgs/z2_81.png"
+    "image": "/assets/imgs/z2_81.png",
+    "type": "news"
   },
 
   {
     "id": 2,
 
-    "body": "lorem ipsum",
+    "body": "Diventare il miglior spadaccino",
     "title": "Roronoa Zoro",
     "active": true,
-    "image": "/assets/imgs/fRmA4Yb.png"
+    "image": "/assets/imgs/fRmA4Yb.png",
+    "type": "education"
   },
 
   {
     "id": 3,
-    "body": "lorem ipsum",
+    "body": "Trovare l'All Blue",
     "title": "Vinsmoke Sanji",
     "active": true,
-    "image": "/assets/imgs/AF0pDCi.png"
+    "image": "/assets/imgs/AF0pDCi.png",
+    "type": "news"
   },
 
 
 
   {
-    "id": 5,
-    "body": "lorem ipsum",
+    "id": 4,
+    "body": "Sveleare i segreti degli Anni Bui",
     "title": "Nico Robin",
-    "active": false,
-    "image": "/assets/imgs/0WzHdTm.png"
+    "active": true,
+    "image": "/assets/imgs/0WzHdTm.png",
+    "type": "education"
+
+  },
+
+  {
+    "id": 5,
+    "body": "Seguire le orme di suo padre",
+    "title": "God Usopp",
+    "active": true,
+    "image": "/assets/imgs/egxVaIv.png",
+    "type": "politic"
   },
 
   {
     "id": 6,
-    "body": "lorem ipsum",
-    "title": "God Usopp",
-    "active": false,
-    "image": "/assets/imgs/egxVaIv.png"
+    "body": "Costruire la nave del Re dei Pirati",
+    "title": "Cyborg Franky",
+    "active": true,
+    "image": "/assets/imgs/3abopae.png",
+    "type": "politic"
   },
 
   {
     "id": 7,
-    "body": "lorem ipsum",
-    "title": "Cyborg Franky",
-    "active": false,
-    "image": "/assets/imgs/3abopae.png"
+    "body": "Diventare un abile medico",
+    "title": "Tony Tony Chopper",
+    "active": true,
+    "image": "/assets/imgs/SH4IkCE.png",
+    "type": "news"
   },
 
   {
     "id": 8,
-    "body": "lorem ipsum",
-    "title": "Tony Tony Chopper",
-    "active": false,
-    "image": "/assets/imgs/SH4IkCE.png"
+    "body": "Suonare per l'amico Laboon",
+    "title": "Soul King Brook",
+    "active": true,
+    "image": "/assets/imgs/PHBTWt3.png",
+    "type": "politic"
   },
 
   {
     "id": 9,
-    "body": "lorem ipsum",
-    "title": "Soul King Brook",
-    "active": false,
-    "image": "/assets/imgs/PHBTWt3.png"
+    "body": "Disegnare una mappa del mondo intero",
+    "title": "Nami",
+    "active": true,
+    "image": "/assets/imgs/iWldHzJ.png",
+    "type": "education"
   },
 
   {
     "id": 10,
-    "body": "lorem ipsum",
-    "title": "Nami",
-    "active": false,
-    "image": "/assets/imgs/iWldHzJ.png"
+    "body": "Migliorare rapporti con gli uomini-pesce",
+    "title": "Jinbe",
+    "active": true,
+    "image": "/assets/imgs/Jinbe_seconda_taglia.webp",
+    "type": "politic"
+  },
+
+  {
+    "id": 11,
+    "body": "Difendere il suo regno e i suoi fratelli",
+    "title": "Sabo",
+    "active": true,
+    "image": "/assets/imgs/ONE-PIECE-POSTER-WANTED-SABO-53-x-35.webp",
+    "type": "education"
+  },
+
+  {
+    "id": 12,
+    "body": "Obiettivo sconosciuto",
+    "title": "Yamato",
+    "active": true,
+    "image": "/assets/imgs/yamato.png",
+    "type": "news"
   }
+
 ]
