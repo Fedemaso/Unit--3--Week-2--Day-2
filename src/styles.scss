@@ -1,2 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap");
+
+body {
+  background-image: url("https://i.pinimg.com/originals/3f/8c/aa/3f8caaece6386ceba8a2db5e8977847c.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Amatic SC", cursive;
+}
