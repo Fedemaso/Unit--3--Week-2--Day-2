@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { InactivePostsComponentComponent } from './inactive-posts.component';
+import { InactivePostsComponent } from './inactive-posts.component';
 
-describe('InactivePostsComponentComponent', () => {
-  let component: InactivePostsComponentComponent;
-  let fixture: ComponentFixture<InactivePostsComponentComponent>;
+describe('InactivePostsComponent', () => {
+  let component: InactivePostsComponent;
+  let fixture: ComponentFixture<InactivePostsComponent>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [InactivePostsComponentComponent]
+      declarations: [InactivePostsComponent]
     });
-    fixture = TestBed.createComponent(InactivePostsComponentComponent);
+    fixture = TestBed.createComponent(InactivePostsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
